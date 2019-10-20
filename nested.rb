@@ -77,11 +77,11 @@ def adding_matz
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
-      
+
       }
     end
 
-     
+
 
 def changing_alan
 	programmer_hash =
