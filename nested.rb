@@ -77,18 +77,11 @@ def adding_matz
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
-        :dennis_ritchie => {
-          :known_for => "Unix",
-          :languages => ["C"]
-        }
+      
       }
     end
 
-     programmer_hash[ :yukihiro_matsumoto => {
-        :known_for => "Ruby",
-         :languages => ["LISP", "C"]]
-       }
-      puts programmer_hash
+     
 
 def changing_alan
 	programmer_hash =
